@@ -1,2 +1,17 @@
 # Medical-Insurance-Cost-Prediction-
 A GitHub repository focused on medical insurance cost prediction
+![4  Region vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/5587a88d-e01e-41e7-bdff-ab6b71ab68eb)
+![5  Smoking Status vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/a6eba799-131d-437b-b54e-f90758fa1e06)
+![6  Exercise Frequency vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/7b63e28d-e937-42c7-ae16-2cb671029fa7)
+![7  Chronic Condition vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/3b93fa84-027d-401f-b089-1883cd67ae67)
+![8  Mental Health vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/db8cb993-2a93-461f-a938-ca922d06c3f3)
+![9  Insurance Plan Type vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/61938a02-265f-4dbb-8cce-d148f15f7e69)
+![10  Income Level vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/542f1550-652c-4ea2-89c2-0ca991e91450)
+![11  Family Medical History vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/58d6fffc-bf16-4b3c-9eb4-6ad45bfe3d03)
+![12  Distance to Nearest Hospital vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/03b2bcf5-9a4d-4a9f-964c-950d827924af)
+![1  Age vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/da9e635b-33fc-4142-8050-911d3a89d370)
+![2  BMI vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/efc2d7aa-01a0-4ce7-9f46-f1b1fedf1031)
+![3  Gender vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/2fc87f00-f97e-4573-9431-c29384426216)
+![13  Primary care physician visit vs Charges](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/fc218697-2e41-4805-9802-4e54beae20a6)
+![14  Actual vs Predicted Graph](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/c41c637a-d28a-4e29-b422-0ebe264aae6e)
+![Medical Insurance Cost Predicted Result](https://github.com/Devimol123/Medical-Insurance-Cost-Prediction-/assets/154596511/89c99335-1125-4a06-bf77-a7a43e9087d5)
